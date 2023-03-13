@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paup_2023", "Paup_2023\Paup_2023.csproj", "{0F968E78-4A0E-4B6C-91AD-CFA4442C633A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F968E78-4A0E-4B6C-91AD-CFA4442C633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F968E78-4A0E-4B6C-91AD-CFA4442C633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F968E78-4A0E-4B6C-91AD-CFA4442C633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F968E78-4A0E-4B6C-91AD-CFA4442C633A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCBDEF1F-4792-4882-B9BA-EC2448B2F1C8}
+	EndGlobalSection
+EndGlobal
